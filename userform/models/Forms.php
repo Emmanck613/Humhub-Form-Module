@@ -1,6 +1,6 @@
 <?php 
 
-namespace app\models;
+namespace humhub\modules\userform\models;
 use yii\db\ActiveRecord;
 
 class Forms extends ActiveRecord{

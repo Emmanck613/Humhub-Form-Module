@@ -1,9 +1,8 @@
 <?php
-
 namespace ricit\humhub\modules\userform\controllers;
 
 use humhub\components\Controller;
-use app\models\Forms;
+use humhub\modules\userform\models\Forms;
 use Yii;
 
 class IndexController extends Controller

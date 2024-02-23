@@ -3,7 +3,7 @@
 namespace ricit\humhub\modules\userform\controllers;
 
 use humhub\modules\admin\components\Controller;
-use app\models\Forms;
+use humhub\modules\userform\models\Forms;
 use Yii;
 use yii\data\ActiveDataProvider;
 
